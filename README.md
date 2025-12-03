@@ -1,4 +1,4 @@
-<img width="619" height="586" alt="image" src="https://github.com/user-attachments/assets/a54ca7e4-1004-4928-948f-91564a3e128c" /># osticket-prereqs<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
