@@ -17,10 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Requirements</h2>
 
-- Visual C++ redistributable x86
-- MySQL
-- HeidiSQL
-- osTicket
+- ### osTicket-Installation-Files.zip (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 
 <h2>Installation Steps</h2>
 
