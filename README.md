@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/LDHEhFc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install / Enable IIS in Windows WITH CGI
+<b> 1.Install / Enable IIS in Windows WITH CGI </b>
 </p>
 <br />
 
