@@ -84,7 +84,8 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <img src="https://i.imgur.com/OqB6H5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to sites -> Default -> osTicket
+<b> 9. Go to sites -> Default -> osTicket </b>
+  
 On the right, click “Browse *:80”
 </p>
 <br />
@@ -94,12 +95,18 @@ On the right, click “Browse *:80”
 </p>
 <p>
 Note that some extensions are not enabled
-Go back to IIS, sites -> Default -> osTicket
+<b> 10. Go back to IIS, sites -> Default -> osTicket </b>
+
 Double-click PHP Manager
+
 Click “Enable or disable an extension”
+
 Enable: php_imap.dll
+
 Enable: php_intl.dll
+
 Enable: php_opcache.dll
+
 Refresh the osTicket site in your browser, observe the changes
 </p>
 <br />
@@ -108,8 +115,10 @@ Refresh the osTicket site in your browser, observe the changes
 <img src="https://i.imgur.com/U1rZlvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Rename: ost-config.php
+<b> 11. Rename: ost-config.php </b>
+
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
