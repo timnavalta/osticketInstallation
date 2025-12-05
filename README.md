@@ -127,11 +127,14 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <img src="https://i.imgur.com/sdpRTdg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assign Permissions: ost-config.php
-Disable inheritance -> Remove All
-New Permissions -> Everyone -> All
+<b> 12. Assign Permissions: ost-config.php
+Disable inheritance -> Remove All 
+New Permissions -> Everyone -> All </b>
+
 Continue Setting up osTicket in the browser (click Continue)
+
 Name Helpdesk
+
 Default email (receives email from customers)
 </p>
 <br />
