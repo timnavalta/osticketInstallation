@@ -43,7 +43,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/nxExZP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b> 3. Create the directory C:\PHP </b>
+
 <b> 4. From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 into the “C:\PHP” folder </b>
+
 <b> 5. Install VC_redist.x86.exe </b>
 <p>
 </p>
