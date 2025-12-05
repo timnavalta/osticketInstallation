@@ -143,16 +143,24 @@ Default email (receives email from customers)
 <img src="https://i.imgur.com/uKPrmcM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, install HeidiSQL.
+<b> 13.From the “osTicket-Installation-Files” folder, install HeidiSQL. </b>
+
 Open Heidi SQL
+
 Create a new session, root/root
+
 Connect to the session
+
 Create a database called “osTicket”
 
-Continue Setting up osTicket in the browser
+<b> 14. Continue Setting up osTicket in the browser </b>
+
 MySQL Database: osTicket
+
 MySQL Username: root
+
 MySQL Password: root
+
 Click “Install Now!”
 </p>
 <br />
@@ -161,7 +169,7 @@ Click “Install Now!”
 <img src="https://i.imgur.com/cvERZTR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> Congratulations, hopefully it is installed with no errors!
+<b> 15. Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php </b>
 </p>
 <br />
