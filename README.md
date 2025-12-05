@@ -79,11 +79,10 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <br />
 
 <p>
-<img src="https://i.imgur.com/D6Sf64v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OqB6H5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket v1.15.8
-From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
 </p>
 <br />
