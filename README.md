@@ -55,9 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 <b> 6. Install MySQL 5.5.62 </b>
-Typical Setup
-Launch Configuration Wizard (after install)
-Standard Configuration
+(Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration)
 </p>
 <br />
 
