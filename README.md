@@ -134,12 +134,15 @@ Look for ost-sampleconfig.php and rename it to ost-config.php.
 <br />
 
 <p>
+Right click ost-config.php and click Properties.
+
+Configure Advanced Security Settings and Disable inheritance.
+
+Assign Permissions for Everyone and click OK. Click Apply then press OK.
 <img src="https://i.imgur.com/sdpRTdg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> 12. Assign Permissions: ost-config.php
-Disable inheritance -> Remove All 
-New Permissions -> Everyone -> All </b>
+
 
 Continue Setting up osTicket in the browser (click Continue)
 
