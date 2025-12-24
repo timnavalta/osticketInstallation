@@ -27,6 +27,8 @@ Click the box corresponding "Internet Information Services", then click the drop
 <p>
 <img src="https://imgur.com/YjtqYV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+Under the "Application Development Features", select CGI then press OK.
 <p>
 <img src="https://i.imgur.com/LDHEhFc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
