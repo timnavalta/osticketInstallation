@@ -74,11 +74,13 @@ Enter a username and password and finish the installation.
 <br />
 
 <p>
+<b> Open IIS as an Admin and register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) </b>
+
+Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version", locate the PHP executable file and click open then click OK.
+Reload IIS (Open IIS, Stop and Start the server)
 <img src="https://i.imgur.com/sqgcOND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b> 7. Open IIS as an Admin and register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) </b>
 <p>
-Reload IIS (Open IIS, Stop and Start the server)
 </p>
 <br />
 
