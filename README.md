@@ -122,7 +122,9 @@ Refresh the osTicket site in your browser, observe the changes
 <br />
 
 <p>
-Navigate to C:\inetpub\wwwroot\osTicket\include on the File Explorer and look for ost-sampleconfig.php and rename it to ost-config.php.
+Navigate to C:\inetpub\wwwroot\osTicket\include on the File Explorer.
+  
+Look for ost-sampleconfig.php and rename it to ost-config.php.
   
 <img src="https://i.imgur.com/U1rZlvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
