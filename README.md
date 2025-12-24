@@ -74,8 +74,6 @@ Enter a username and password and finish the installation.
 <br />
 
 <p>
-<b> Open IIS as an Admin and register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) </b>
-
 Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version", locate the PHP executable file and click open then click OK.
 Reload IIS (Open IIS, Stop and Start the server)
 <img src="https://i.imgur.com/sqgcOND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -91,42 +89,30 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <img src="https://i.imgur.com/D6Sf64v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> Install osTicket v1.15.8 </b>
-
-From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 </p>
 <br />
 
 <p>
+<b> Go to sites -> Default -> osTicket </b>
+  
+On the right, click “Browse *:80”. Refer to the image below.
 <img src="https://i.imgur.com/OqB6H5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> 9. Go to sites -> Default -> osTicket </b>
-  
-On the right, click “Browse *:80”
 </p>
 <br />
 
 <p>
+Go back to IIS. On the left hand panel, click the drop down on "Sites" folder, then Default Web Site then click osTicket.
+
+Double-click PHP Manager. Click “Enable or disable an extension”. 
+
+Look for php_imap.dll, right click and click Enable. Repeat the same process on php_intl.dll and php_opcache.dll.
+
+Refresh the osTicket site in your browser, observe the changes
 <img src="https://i.imgur.com/HbUTpxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Note that some extensions are not enabled
-<b> 10. Go back to IIS, sites -> Default -> osTicket </b>
-
-Double-click PHP Manager
-
-Click “Enable or disable an extension”
-
-Enable: php_imap.dll
-
-Enable: php_intl.dll
-
-Enable: php_opcache.dll
-
-Refresh the osTicket site in your browser, observe the changes
 </p>
 <br />
 
