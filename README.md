@@ -20,14 +20,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<b> 1. Enable IIS in Windows WITH CGI </b>
+</p>
+<p>
 <img src="https://imgur.com/YjtqYV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/LDHEhFc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<b> 1. Install / Enable IIS in Windows WITH CGI </b>
-</p>
+
 <br />
 
 <p>
