@@ -21,7 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <b> 1. Enable IIS in Windows WITH CGI </b>
-    Click the box corresponding "Internet Information Services", then click the drop down box.
+
+Click the box corresponding "Internet Information Services", then click the drop down box.
 </p>
 <p>
 <img src="https://imgur.com/YjtqYV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
