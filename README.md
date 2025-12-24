@@ -67,6 +67,7 @@ Click the mysql-5.5.62. If asked to choose setup type, choose "Typical". Check "
 
 After the installation, the Configuration Wizard page should come out. Use the Standard Configuration then click next until it asks for a username and password.
 Enter a username and password and finish the installation.
+
 <img src="https://i.imgur.com/0pHFPjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -75,7 +76,8 @@ Enter a username and password and finish the installation.
 
 <p>
 Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version", locate the PHP executable file and click open then click OK.
-Reload IIS (Open IIS, Stop and Start the server)
+Reload IIS (Open IIS, Stop and Start the server).
+  
 <img src="https://i.imgur.com/sqgcOND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -85,7 +87,8 @@ Reload IIS (Open IIS, Stop and Start the server)
 <p>
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”.
+
 <img src="https://i.imgur.com/D6Sf64v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -96,6 +99,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 <b> Go to sites -> Default -> osTicket </b>
   
 On the right, click “Browse *:80”. Refer to the image below.
+
 <img src="https://i.imgur.com/OqB6H5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -110,6 +114,7 @@ Double-click PHP Manager. Click “Enable or disable an extension”.
 Look for php_imap.dll, right click and click Enable. Repeat the same process on php_intl.dll and php_opcache.dll.
 
 Refresh the osTicket site in your browser, observe the changes
+
 <img src="https://i.imgur.com/HbUTpxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -117,14 +122,12 @@ Refresh the osTicket site in your browser, observe the changes
 <br />
 
 <p>
+Navigate to C:\inetpub\wwwroot\osTicket\include on the File Explorer and look for ost-sampleconfig.php and rename it to ost-config.php.
+  
 <img src="https://i.imgur.com/U1rZlvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> 11. Rename: ost-config.php </b>
 
-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
 
