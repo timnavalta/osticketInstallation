@@ -75,7 +75,9 @@ Enter a username and password and finish the installation.
 <br />
 
 <p>
-Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version", locate the PHP executable file and click open then click OK.
+Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version". 
+
+Locate the PHP executable file and click open then click OK.
   
 <img src="https://i.imgur.com/sqgcOND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -103,7 +105,7 @@ On the right, click “Browse *:80”. Refer to the image below.
 </p>
 <p>
 </p>
-<br />
+<br/>
 
 <p>
 Go back to IIS. On the left hand panel, click the drop down on "Sites" folder, then Default Web Site then click osTicket.
