@@ -66,6 +66,7 @@ Go to File explorer and click on "This PC" aand look for your C drive. Make a ne
 Click the mysql-5.5.62. If asked to choose setup type, choose "Typical". Check "Launch the MySQL Instance Configuration Wizard before clicking Finish.
 
 After the installation, the Configuration Wizard page should come out. Use the Standard Configuration then click next until it asks for a username and password.
+
 Enter a username and password and finish the installation.
 
 <img src="https://i.imgur.com/0pHFPjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -94,7 +95,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”.
 </p>
 <p>
 </p>
-<br />
+<br/>
 
 <p>
 <b> Go to sites -> Default -> osTicket </b>
@@ -125,7 +126,7 @@ Refresh the osTicket site in your browser, observe the changes
 <p>
 Navigate to C:\inetpub\wwwroot\osTicket\include on the File Explorer.
   
-Look for ost-sampleconfig.php and rename it to ost-config.php.
+Look for <b> ost-sampleconfig.php </b> and rename it to <b> ost-config.php. </b> 
   
 <img src="https://i.imgur.com/U1rZlvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -143,12 +144,12 @@ Assign Permissions for Everyone and click OK. Click Apply then press OK.
 <img src="https://i.imgur.com/sdpRTdg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://i.imgur.com/1LvW9eb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-Continue Setting up osTicket in the browser (click Continue)
-
+Back on the browser, Click Continue and setup the osticket
 Name Helpdesk
-
+<img src="https://i.imgur.com/MGI20MG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Default email (receives email from customers)
 </p>
 <br />
