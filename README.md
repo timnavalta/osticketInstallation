@@ -76,7 +76,6 @@ Enter a username and password and finish the installation.
 
 <p>
 Open IIS as an Admin and click on PHP Manager, on the next page click "Register new PHP version", locate the PHP executable file and click open then click OK.
-Reload IIS (Open IIS, Stop and Start the server).
   
 <img src="https://i.imgur.com/sqgcOND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -111,7 +110,7 @@ Go back to IIS. On the left hand panel, click the drop down on "Sites" folder, t
 
 Double-click PHP Manager. Click “Enable or disable an extension”. 
 
-Look for php_imap.dll, right click and click Enable. Repeat the same process on php_intl.dll and php_opcache.dll.
+Look for <b> php_imap.dll </b> , right click and click Enable. Repeat the same process on <b> php_intl.dll </b> and <b> php_opcache.dll </b> .
 
 Refresh the osTicket site in your browser, observe the changes
 
