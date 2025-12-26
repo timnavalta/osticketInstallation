@@ -143,16 +143,21 @@ Configure Advanced Security Settings and Disable inheritance.
 Assign Permissions for Everyone and click OK. Click Apply then press OK.
 <img src="https://i.imgur.com/sdpRTdg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
 <p>
+
+Back on the browser, Click Continue and setup the osticket.
+
 <img src="https://i.imgur.com/1LvW9eb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Fill up the necessary information.
 
-Back on the browser, Click Continue and setup the osticket
-Name Helpdesk
 <img src="https://i.imgur.com/MGI20MG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Default email (receives email from customers)
+
+Make sure to provide an email address where it can receive from customers. 
 </p>
-<br />
+<br/>
 
 <p>
 <img src="https://i.imgur.com/uKPrmcM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
