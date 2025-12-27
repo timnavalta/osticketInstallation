@@ -163,11 +163,11 @@ Make sure to provide an email address where it can receive from customers.
 <img src="https://i.imgur.com/uKPrmcM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> 13.From the “osTicket-Installation-Files” folder, install HeidiSQL. </b>
+<b> We will leave Database Setting for later, we will move on to Heidi SQL </b>
 
-Open Heidi SQL
+Open Heidi SQL from the installation files.
 
-Create a new session, root/root
+Create a new session
 
 Connect to the session
 
