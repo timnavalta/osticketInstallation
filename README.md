@@ -192,3 +192,5 @@ Click “Install Now!”
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php </b>
 </p>
 <br />
+
+<h2>Conclusion</h2>
