@@ -189,7 +189,7 @@ Click “Install Now!”
 <img src="https://i.imgur.com/cvERZTR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> 15. Congratulations, hopefully it is installed with no errors!
+<b> Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php </b>
 </p>
 <br />
