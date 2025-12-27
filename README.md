@@ -186,7 +186,6 @@ Click “Install Now!”
 <br />
 
 <p>
-<img src="https://i.imgur.com/cvERZTR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b> Congratulations, hopefully it is installed with no errors!
