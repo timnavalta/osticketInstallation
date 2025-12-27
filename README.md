@@ -163,7 +163,7 @@ Make sure to provide an email address where it can receive from customers.
 <img src="https://i.imgur.com/uKPrmcM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b> We will leave Database Setting for later, we will move on to Heidi SQL </b>
+<b> We will leave Database Setting for later, we will move on to Heidi SQL. </b>
 
 Open Heidi SQL from the installation files.
 
@@ -173,7 +173,7 @@ Connect to the session
 
 Create a database called “osTicket”
 
-<b> 14. Continue Setting up osTicket in the browser </b>
+<b> Continue Setting up osTicket in the browser, input the follow under Database Settings. </b>
 
 MySQL Database: osTicket
 
