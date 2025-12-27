@@ -5,14 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. Click the link below to download the full installation package. <br />
 
-- PHP 
-
-- MySQL 8.0 
-
-- MariaDB 10.11 
-
-- PHP Manager
-
 - ### [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 
 <h2>Environments and Technologies Used</h2>
