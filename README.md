@@ -195,3 +195,5 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php </b
 
 <h2>Conclusion</h2>
 
+The purpose of this project is to install an open-source ticketing system "osticket", and after installing you should have a structured ticketing system wherein you can simulate  real-world type scenarios.
+From here on out, you can be a user and an admin. It allows you to manage, track and resolve customer support requests or incident as if you are working on an office.
